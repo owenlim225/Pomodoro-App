@@ -1,3 +1,9 @@
+## Update UI #5:
+![image](https://github.com/owenlim225/Pomodoro-App/assets/87555304/062a9e53-fdfe-404d-b3c0-03f796e26097)
+
+
+
+
 # first UI: 
 
 ![image](https://github.com/owenlim225/Pomodoro-App/assets/87555304/64bbbd12-0485-4540-ab0a-006cd93fbadd)
