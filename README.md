@@ -10,3 +10,6 @@
 
 ![image](https://github.com/owenlim225/Pomodoro-App/assets/87555304/876b9949-ff6d-4aa0-9e41-d1813d1d63a1)
 
+# updated UI #2:
+
+![Uploading image.png…]()
